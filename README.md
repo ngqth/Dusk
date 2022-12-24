@@ -1,4 +1,4 @@
-# Dusk Dwm
+# Dusk
 
 This is a fork of [Dusk](https://github.com/bakkeby/dusk/) which is also a fork of [Suckless dwm](https://dwm.suckless.org/)
 
