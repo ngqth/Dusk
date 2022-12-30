@@ -252,6 +252,7 @@ static const Rule clientrules[] = {
 	{ .class = "Windscribe2", .workspace = "5", .flags = Floating|SwitchWorkspace },
 	{ .class = "Pcmanfm", .workspace = "1", .flags = AttachMaster|SwitchWorkspace },
 	{ .class = "Joplin", .workspace = "4", .flags = AttachMaster|SwitchWorkspace },
+	{ .class = "GitKraken", .workspace = "8", .flags = AttachMaster|SwitchWorkspace },
 	{ .class = "firefox", .workspace = "3", .flags = AttachMaster|SwitchWorkspace },
 	{ .class = "Steam", .flags = Floating|Centered },
 	{ .class = "steam_app_", .flags = SteamGame|Floating|Centered },
